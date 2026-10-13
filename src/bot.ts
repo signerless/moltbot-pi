@@ -547,7 +547,7 @@ bot.command('home', async (ctx) => {
   try {
     await fs.access(TAPO_CLI);
   } catch {
-    return ctx.reply('Tapo CLI not found. Install from:\ngithub.com/Pavelevich/tapo-smart-home-cli');
+    return ctx.reply('Tapo CLI not found. Install from:\ngithub.com/signerless/tapo-smart-home-cli');
   }
 
   await ctx.replyWithChatAction('typing');

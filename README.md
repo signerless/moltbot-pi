@@ -148,7 +148,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pavelevich/moltbot-pi.git
+git clone https://github.com/signerless/moltbot-pi.git
 cd moltbot-pi
 
 # Install dependencies
@@ -246,7 +246,7 @@ node --version  # Expected: v22.x.x
 
 ```bash
 # Clone repository
-git clone https://github.com/Pavelevich/moltbot-pi.git
+git clone https://github.com/signerless/moltbot-pi.git
 cd moltbot-pi
 
 # Install dependencies (lightweight)
@@ -762,11 +762,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pavelevich/moltbot-pi/issues">Report Bug</a>
+  <a href="https://github.com/signerless/moltbot-pi/issues">Report Bug</a>
   •
-  <a href="https://github.com/Pavelevich/moltbot-pi/issues">Request Feature</a>
+  <a href="https://github.com/signerless/moltbot-pi/issues">Request Feature</a>
 </p>
 
 <p align="center">
-  <sub>Created by <a href="https://github.com/Pavelevich">Pavelevich</a></sub>
+  <sub>Created by <a href="https://github.com/signerless">signerless</a></sub>
 </p>

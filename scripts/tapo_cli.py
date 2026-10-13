@@ -3,8 +3,8 @@
 ClauCapt - Smart Home CLI
 Captain of your smart home fleet
 
-Author: Pavelevich
-GitHub: https://github.com/Pavelevich/tapo-smart-home-cli
+Author: signerless
+GitHub: https://github.com/signerless/tapo-smart-home-cli
 License: MIT
 
 An extensible CLI for controlling smart home devices.
@@ -21,7 +21,7 @@ from pathlib import Path
 from datetime import datetime
 
 __version__ = "2.0.0"
-__author__ = "Pavelevich"
+__author__ = "signerless"
 
 # Try to import tapo library (for lights/plugs)
 try:
@@ -662,7 +662,7 @@ def print_version():
     """Print version information"""
     print(f"TAPO Smart Home CLI v{__version__}")
     print(f"Author: {__author__}")
-    print(f"GitHub: https://github.com/Pavelevich/tapo-smart-home-cli")
+    print(f"GitHub: https://github.com/signerless/tapo-smart-home-cli")
     print()
     print("Library status:")
     print(f"  tapo library: {'Available' if TAPO_AVAILABLE else 'Not installed'}")
